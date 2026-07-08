@@ -14,7 +14,7 @@
 
 **Namma Parishkara AI** is an intelligent civic infrastructure monitoring system that allows citizens to report city issues like:
 
-* 🕳️ Potholes
+* 🕳️ Pothole
 * 🗑️ Garbage overflow
 * 🌧 Drain blockage
 * 💡 Streetlight failure
