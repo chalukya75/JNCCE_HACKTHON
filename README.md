@@ -1,4 +1,4 @@
-# 🚀 Namma Parishkara AI
+# 🚀 Namma Parishkara AI.
 
 ### Smart Civic Issue Detection & Complaint Automation Platform
 
