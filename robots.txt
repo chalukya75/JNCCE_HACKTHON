@@ -14,4 +14,4 @@ Allow: /
 User-agent: *
 
 Allow: /User-agent: *
-Allow: /
+Allow: "//"
